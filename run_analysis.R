@@ -5,7 +5,7 @@
 
 # set-up
 library(tidyverse)
-setwd("/home/calzzone/Desktop/coursera/test")
+#setwd("/home/calzzone/Desktop/coursera/test")
 
 #download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", "getdata_projectfiles_UCI HAR Dataset.zip")
 unzip("getdata_projectfiles_UCI HAR Dataset.zip")
