@@ -1,0 +1,71 @@
+Since the names of the data are alreay formated to English, this codebook is simply a list of column names. However, they may be relevant if the datatable is read using the base R functions, which trasforms the names of the data. There are 8 columns in total. The first 2 are simply the activity name and the subject ID. The next 66 are the averages of the respective variables in the original dataset, summarized by activity and subject.
+
+
+Activity
+Subject ID
+Mean of: time-domain body acceleration on X axis
+Mean of: time-domain body acceleration on Y axis
+Mean of: time-domain body acceleration on Z axis
+SD of: time-domain body acceleration on X axis
+SD of: time-domain body acceleration on Y axis
+SD of: time-domain body acceleration on Z axis
+Mean of: time-domain gravity acceleration on X axis
+Mean of: time-domain gravity acceleration on Y axis
+Mean of: time-domain gravity acceleration on Z axis
+SD of: time-domain gravity acceleration on X axis
+SD of: time-domain gravity acceleration on Y axis
+SD of: time-domain gravity acceleration on Z axis
+Mean of: time-domain body acceleration (Jerk) on X axis
+Mean of: time-domain body acceleration (Jerk) on Y axis
+Mean of: time-domain body acceleration (Jerk) on Z axis
+SD of: time-domain body acceleration (Jerk) on X axis
+SD of: time-domain body acceleration (Jerk) on Y axis
+SD of: time-domain body acceleration (Jerk) on Z axis
+Mean of: time-domain body gyration on X axis
+Mean of: time-domain body gyration on Y axis
+Mean of: time-domain body gyration on Z axis
+SD of: time-domain body gyration on X axis
+SD of: time-domain body gyration on Y axis
+SD of: time-domain body gyration on Z axis
+Mean of: time-domain body gyration (Jerk) on X axis
+Mean of: time-domain body gyration (Jerk) on Y axis
+Mean of: time-domain body gyration (Jerk) on Z axis
+SD of: time-domain body gyration (Jerk) on X axis
+SD of: time-domain body gyration (Jerk) on Y axis
+SD of: time-domain body gyration (Jerk) on Z axis
+Mean of: time-domain body acceleration magnitude 
+SD of: time-domain body acceleration magnitude 
+Mean of: time-domain gravity acceleration magnitude 
+SD of: time-domain gravity acceleration magnitude 
+Mean of: time-domain body acceleration (Jerk) magnitude 
+SD of: time-domain body acceleration (Jerk) magnitude 
+Mean of: time-domain body gyration magnitude 
+SD of: time-domain body gyration magnitude 
+Mean of: time-domain body gyration (Jerk) magnitude 
+SD of: time-domain body gyration (Jerk) magnitude 
+Mean of: frequency-domain body acceleration on X axis
+Mean of: frequency-domain body acceleration on Y axis
+Mean of: frequency-domain body acceleration on Z axis
+SD of: frequency-domain body acceleration on X axis
+SD of: frequency-domain body acceleration on Y axis
+SD of: frequency-domain body acceleration on Z axis
+Mean of: frequency-domain body acceleration (Jerk) on X axis
+Mean of: frequency-domain body acceleration (Jerk) on Y axis
+Mean of: frequency-domain body acceleration (Jerk) on Z axis
+SD of: frequency-domain body acceleration (Jerk) on X axis
+SD of: frequency-domain body acceleration (Jerk) on Y axis
+SD of: frequency-domain body acceleration (Jerk) on Z axis
+Mean of: frequency-domain body gyration on X axis
+Mean of: frequency-domain body gyration on Y axis
+Mean of: frequency-domain body gyration on Z axis
+SD of: frequency-domain body gyration on X axis
+SD of: frequency-domain body gyration on Y axis
+SD of: frequency-domain body gyration on Z axis
+Mean of: frequency-domain body acceleration magnitude 
+SD of: frequency-domain body acceleration magnitude 
+Mean of: frequency-domain body acceleration (Jerk) magnitude 
+SD of: frequency-domain body acceleration (Jerk) magnitude 
+Mean of: frequency-domain body gyration magnitude 
+SD of: frequency-domain body gyration magnitude 
+Mean of: frequency-domain body gyration (Jerk) magnitude 
+SD of: frequency-domain body gyration (Jerk) magnitude 
